@@ -11,7 +11,7 @@ Este é um simples Gerenciador de Tarefas desenvolvido em Python, onde você pod
 ## Como Executar
 Clone o repositório ou baixe o código-fonte:
 
-
+> bash
 ```
 git clone https://github.com/LuiSilvak/task_manager.git
 cd task_manager
@@ -19,11 +19,13 @@ cd task_manager
 
 Certifique-se de ter o Python instalado: O projeto foi desenvolvido utilizando Python 3.x. Para verificar se o Python está instalado, execute:
 
+> bash
 ```
 python --version
 ```
 ou
 
+> bash
 ```
 python3 --version
 ```
@@ -31,12 +33,14 @@ python3 --version
 ### Execute o programa: 
 No terminal, execute o seguinte comando para rodar o gerenciador de tarefas:
 
+> bash
 ```
 python task_manager.py
 ```
 
 ### Estrutura do Projeto
 
+> bash
 ```
 task_manager/
 ├── task_manager.py    # Arquivo principal do gerenciador de tarefas
@@ -48,6 +52,7 @@ O programa oferece um menu simples no terminal para interagir com o usuário. A 
 
 #### Exemplo de Execução
 
+> bash
 ```
 --- Gerenciador de Tarefas ---
 1. Exibir Tarefas
@@ -60,6 +65,7 @@ Digite o nome da tarefa: Estudar Python
 Tarefa 'Estudar Python' adicionada com sucesso!
 ```
 
+> bash
 ```
 --- Gerenciador de Tarefas ---
 1. Exibir Tarefas
